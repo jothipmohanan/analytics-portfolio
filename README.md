@@ -46,6 +46,9 @@ An interactive Power BI dashboard analyzing sales performance across customer se
 (https://github.com/user-attachments/assets/90751656-697b-4f1a-b3ec-1f8c205b80dc)
 (https://github.com/user-attachments/assets/4c0fdba8-9400-4ee7-8d81-29eed0bb6e8f)
 
+##🔒 Note
+The .pbix file is not included due to size/privacy. Available upon request
+
 ## 📬 Contact
 Created by **Jothi Lakshmi P M**  
 📍 kochi, Kerala  
